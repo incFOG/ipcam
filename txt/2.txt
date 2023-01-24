@@ -1,0 +1,101 @@
+ IP:Port               City                Country                            Hostname
+ -------               ----                -------                            --------
+ 104.177.153.145:8080  Jacksonville        United States                      104-177-153-145.lightspeed.jcvlfl.sbcglobal.net
+ 107.13.2.109:8080     Brogden             United States                      mta-107-13-2-109.nc.rr.com
+ 108.48.26.47:8080     Leesburg            United States                      pool-108-48-26-47.washdc.fios.verizon.net
+ 109.225.59.113:8080   Kaluga              Russian Federation                 113.net-94.242.59.kaluga.ru
+ 109.250.53.251:6080   Frankfurt am Main   Germany                            i6DFA35FB.versanet.de
+ 12.87.20.234:9090     Naples              United States                      
+ 122.116.41.8:8080     Taipei              Taiwan                             122-116-41-8.hinet-ip.hinet.net
+ 122.117.156.176:8080  Kaohsiung           Taiwan                             122-117-156-176.hinet-ip.hinet.net
+ 137.119.110.130:8080  Boone               United States                      137-119-110-130.wilkes.net
+ 146.120.104.56:8090   Glazov              Russian Federation                 ip56.ppp104.glazov.net
+ 151.51.235.67:8080    Verona              Italy                              adsl-ull-67-235.51-151.wind.it
+ 151.62.39.73:8080     Verona              Italy                              
+ 169.0.33.30:9090      Johannesburg        South Africa                       169-0-33-30.ip.afrihost.co.za
+ 173.26.199.78:8080    Edenton             United States                      173-26-199-78.client.mchsi.com
+ 174.77.152.253:8080   Fairfax             United States                      wsip-174-77-152-253.dc.dc.cox.net
+ 178.49.188.169:8080   Novosibirsk         Russian Federation                 l49-188-169.novotelecom.ru
+ 178.71.3.134:8080     Saint Petersburg    Russian Federation                 ip.178-71-3-134.avangarddsl.ru
+ 181.22.125.152:8081   Buenos Aires        Argentina                          181-22-125-152.speedy.com.ar
+ 181.95.139.38:8080    Buenos Aires        Argentina                          host38.181-95-139.telecom.net.ar
+ 182.167.144.44:8008   Osaka               Japan                              182-167-144-44f1.osk2.eonet.ne.jp
+ 185.26.170.129:9999   Astrakhan           Russian Federation                 
+ 190.17.32.63:8085     Buenos Aires        Argentina                          63-32-17-190.fibertel.com.ar
+ 190.207.171.60:8080   Barinas             Venezuela, Bolivarian Republic of  190-207-171-60.dyn.dsl.cantv.net
+ 190.207.208.124:8080  Barinas             Venezuela, Bolivarian Republic of  190-207-208-124.dyn.dsl.cantv.net
+ 191.81.64.29:8081     Buenos Aires        Argentina                          191-81-64-29.speedy.com.ar
+ 195.46.185.104:8008   Orël                Russian Federation                 
+ 20.219.193.68:5986    Pune                India                              
+ 20.66.39.61:6443      San Jose            United States                      
+ 201.236.147.2:8080    Santiago            Chile                              
+ 211.225.223.211:8080  Cheongju-si         Korea, Republic of                 
+ 212.107.227.117:8081  Seversk             Russian Federation                 n227-h117.a-tc.net
+ 212.197.170.126:8080  Vienna              Austria                            212-197-170-126.hdsl.highway.telekom.at
+ 213.160.158.100:8080  Kyiv                Ukraine                            post.taxcons-uk.com
+ 213.65.23.83:81       Svedala             Sweden                             213-65-23-83-no600.tbcn.telia.com
+ 217.107.96.178:80     Moscow              Russian Federation                 pppoe-dynamic6.mosoblast.rt.ru
+ 217.136.1.133:10000   Liège               Belgium                            133.1-136-217.adsl-dyn.isp.belgacom.be
+ 218.250.2.6:888       Hong Kong           Hong Kong                          n218250002006.netvigator.com
+ 220.134.162.54:8080   Tainan              Taiwan                             220-134-162-54.hinet-ip.hinet.net
+ 220.135.82.10:8080    Taipei              Taiwan                             220-135-82-10.hinet-ip.hinet.net
+ 221.149.61.149:8081   Seoul               Korea, Republic of                 
+ 223.16.185.209:8080   Hong Kong           Hong Kong                          209-185-16-223-on-nets.com
+ 24.239.126.20:5432    Cranberry Township  United States                      dynamic-acs-24-239-126-20.zoominternet.net
+ 24.239.126.20:8585    Meadville           United States                      dynamic-acs-24-239-126-20.zoominternet.net
+ 24.239.126.20:8800    Cranberry Township  United States                      dynamic-acs-24-239-126-20.zoominternet.net
+ 24.255.72.234:8089    Roanoke             United States                      ip24-255-72-234.rn.hr.cox.net
+ 31.6.126.69:8090      Donetsk             Ukraine                            
+ 38.39.212.132:20000   Fredericktown       United States                      
+ 45.46.151.31:8080     Fulton              United States                      gen-045-046-151-31.res.spectrum.com
+ 45.52.126.63:8080     Wheelersburg        United States                      
+ 45.92.45.83:2222      London              United Kingdom                     
+ 46.148.186.71:8080    Moscow              Russian Federation                 71-186-148-46.users.tritel.net.ru
+ 46.253.32.35:80       Olot                Spain                              3235.ip.megatro.com
+ 46.28.94.82:8080      Moscow              Russian Federation                 
+ 47.41.94.67:8080      Duluth              United States                      047-041-094-067.res.spectrum.com
+ 51.15.178.117:1830    Saint-Jorioz        France                             51-15-178-117.rev.poneytelecom.eu
+ 67.249.183.177:8080   Herkimer            United States                      cpe-67-249-183-177.twcny.res.rr.com
+ 73.150.241.236:8080   South Vineland      United States                      c-73-150-241-236.hsd1.nj.comcast.net
+ 73.173.150.55:8000    Baltimore           United States                      c-73-173-150-55.hsd1.md.comcast.net
+ 74.65.56.223:8080     Medina              United States                      cpe-74-65-56-223.rochester.res.rr.com
+ 75.149.26.30:1024     Ridgway             United States                      75-149-26-30-Pennsylvania.hfc.comcastbusiness.net
+ 75.187.250.155:8080   Willard             United States                      cpe-75-187-250-155.neo.res.rr.com
+ 76.110.129.105:8084   Miami               United States                      c-76-110-129-105.hsd1.fl.comcast.net
+ 77.23.108.34:9999     Ebermannstadt       Germany                            ip4d176c22.dynamic.kabel-deutschland.de
+ 77.32.73.207:80       Rome                Italy                              77-32-73-207.dyn.eolo.it
+ 79.146.225.94:8080    Cáceres             Spain                              94.red-79-146-225.dynamicip.rima-tde.net
+ 79.161.117.42:83      Haugesund           Norway                             42.79-161-117.customer.lyse.net
+ 79.238.181.99:8080    Borna               Germany                            p4feeb563.dip0.t-ipconnect.de
+ 80.134.191.73:8080    Duisburg            Germany                            p5086bf49.dip0.t-ipconnect.de
+ 80.193.36.146:80      Cheltenham          United Kingdom                     cpc77873-stav20-2-0-cust145.17-3.cable.virginm.net
+ 81.133.95.150:8080    Brailsford          United Kingdom                     host81-133-95-150.in-addr.btopenworld.com
+ 81.22.234.143:84      Murcia              Spain                              
+ 81.6.42.171:8100      Dübendorf           Switzerland                        81-6-42-171.init7.net
+ 83.166.54.169:8080    Tallinn             Estonia                            169-54-166-83.dyn.estpak.ee
+ 83.233.156.149:8081   Malmö               Sweden                             83-233-156-149.cust.bredband2.com
+ 83.40.47.187:80       Olot                Spain                              187.red-83-40-47.dynamicip.rima-tde.net
+ 84.182.90.99:8080     Koblenz             Germany                            
+ 85.15.190.72:8888     Tyumen              Russian Federation                 72.57.access.ttknet.ru
+ 85.8.67.179:8080      Osnabrück           Germany                            
+ 86.128.3.167:8081     Banbury             United Kingdom                     
+ 86.42.147.166:5000    Tralee              Ireland                            86-42-147-166-dynamic.agg3.twv.lmk-mlw.eircom.net
+ 86.61.65.77:8081      Ljubljana           Slovenia                           BSN-61-65-77.static.siol.net
+ 87.139.109.109:8080   Düsseldorf          Germany                            p578b6d6d.dip0.t-ipconnect.de
+ 88.78.36.234:8085     Neuwied             Germany                            dslb-088-078-036-234.088.078.pools.vodafone-ip.de
+ 89.133.132.246:8080   Budapest            Hungary                            catv-89-133-132-246.catv.fixed.vodafone.hu
+ 90.249.139.128:8080   Wallsend            United Kingdom                     
+ 91.167.246.66:8080    Nivillac            France                             91-167-246-66.subs.proxad.net
+ 91.173.125.220:49153  Romans-sur-Isère    France                             91-173-125-220.subs.proxad.net
+ 91.233.46.24:8011     Saint Petersburg    Russian Federation                 
+ 91.56.159.5:8080      Rees                Germany                            p5b389f05.dip0.t-ipconnect.de
+ 92.109.35.28:8080     Almere Stad         Netherlands                        92-109-35-28.cable.dynamic.v4.ziggo.nl
+ 92.117.193.237:8080   Mannheim            Germany                            i5C75C1ED.versanet.de
+ 92.118.2.251:9000     Dalfsen             Netherlands                        
+ 94.227.86.27:8080     Antwerpen           Belgium                            94-227-86-27.access.telenet.be
+ 94.68.25.214:8080     Komotiní            Greece                             ppp-94-68-25-214.home.otenet.gr
+ 96.38.88.212:54138    Columbia            United States                      096-038-088-212.biz.spectrum.com
+ 96.93.190.178:88      Atlanta             United States                      96-93-190-178-static.hfc.comcastbusiness.net
+ 98.109.0.147:444      Denville            United States                      pool-98-109-0-147.nwrknj.fios.verizon.net
+ 98.35.183.228:8686    Richmond            United States                      c-98-35-183-228.hsd1.ca.comcast.net
+ 99.243.38.96:8080     London              Canada                             cpe04d9f5e2c120-cm64777d6a7c60.cpe.net.cable.rogers.com
